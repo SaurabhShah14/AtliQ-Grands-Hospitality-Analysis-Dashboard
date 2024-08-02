@@ -46,3 +46,6 @@ Power BI, Excel, Power Query, DAX
  ▪ Introduce strategic 𝑝𝑟𝑜𝑚𝑜𝑡𝑖𝑜𝑛𝑠.
  ▪ Optimize 𝑟𝑒𝑣𝑒𝑛𝑢𝑒 management.
  ▪ Adapt pricing 𝑠𝑡𝑟𝑎𝑡𝑒𝑔𝑖𝑒𝑠 for business success.
+![image](https://github.com/user-attachments/assets/1877843a-415e-4f5e-ad6a-8f5937bce2c8)
+
+![image](https://github.com/user-attachments/assets/3f2ba5a2-d17f-4877-8cda-34c2d2287ecd)
